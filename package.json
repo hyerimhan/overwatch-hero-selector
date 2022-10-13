@@ -1,0 +1,25 @@
+{
+  "name": "overwatch-hero-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyerimhan/overwatch-hero-selector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyerimhan/overwatch-hero-selector/issues"
+  },
+  "homepage": "https://github.com/hyerimhan/overwatch-hero-selector#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
